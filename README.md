@@ -117,7 +117,7 @@ Proyek ini menghasilkan **7 visualisasi**:
 
 | No | Visualisasi | Tujuan |
 |---|---|---|
-| 1 | Dendrogram | Melihat struktur hierarki pengelompokkan |
+| 1 | Dendrogram | Melihat struktur hierarki pengelompokkan | <img width="973" height="726" alt="Image" src="https://github.com/user-attachments/assets/4b787fec-285d-4c4f-bf4f-3d742eb5014e" />
 | 2 | Elbow Method | Menentukan jumlah cluster optimal |
 | 3 | Heatmap Korelasi | Melihat hubungan antar fitur |
 | 4 | Scatter Plot | Distribusi segmen berdasarkan Umur vs Pendapatan |
