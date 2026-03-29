@@ -160,7 +160,6 @@ Proyek ini menghasilkan **7 visualisasi**:
 ```
 customer-segmentation/
 │
-├── 📄 customer_segmentation.py     # Script Python utama
 ├── 📓 customer_segmentation.ipynb  # Jupyter Notebook (dengan %matplotlib inline)
 ├── 📊 hasil_segmentasi.xlsx        # Output Excel (4 sheet)
 ├── 📄 cleaned_costumer.csv         # Dataset
@@ -240,9 +239,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy openpyxl
 
 ## 👤 Author
 
-**[Nama Kamu]**
-- GitHub: [@username](https://github.com/username)
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
+**[Agung Zakariah]**
+- GitHub: [@agungza](https://github.com/agungza)
 
 ---
 
