@@ -244,11 +244,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy openpyxl
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
 
 <p align="center">
   ⭐ Jika proyek ini bermanfaat, jangan lupa beri <strong>star</strong> di GitHub!
