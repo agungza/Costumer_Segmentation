@@ -113,17 +113,56 @@ Berdasarkan analisis K-Means dengan **k=3**, pelanggan terbagi menjadi 3 segmen:
 
 ## 📈 Visualisasi
 
-Proyek ini menghasilkan **7 visualisasi**:
+Proyek ini menghasilkan **7 visualisasi utama** untuk memahami pola segmentasi pelanggan:
 
-| No | Visualisasi | Tujuan |
-|---|---|---|
-| 1 | Dendrogram | Melihat struktur hierarki pengelompokkan | <img width="973" height="726" alt="Image" src="https://github.com/user-attachments/assets/4b787fec-285d-4c4f-bf4f-3d742eb5014e" />
-| 2 | Elbow Method | Menentukan jumlah cluster optimal | <img width="900" height="704" alt="Image" src="https://github.com/user-attachments/assets/16ed541a-46f0-4f9b-89e3-77572bbe9d56" />
-| 3 | Heatmap Korelasi | Melihat hubungan antar fitur | <img width="876" height="681" alt="Image" src="https://github.com/user-attachments/assets/9c9489f5-0fce-4d4d-ac18-71b55bb5bd78" />
-| 4 | Scatter Plot | Distribusi segmen berdasarkan Umur vs Pendapatan | <img width="810" height="636" alt="Image" src="https://github.com/user-attachments/assets/5b72cefc-9d66-41b6-a8b0-4a7f62ef0a88" />
-| 5 | Radar Chart | Profil karakteristik tiap segmen secara holistik | <img width="664" height="518" alt="Image" src="https://github.com/user-attachments/assets/3e69a3d4-a6c8-4410-8f0c-7807a8fe232f" />
-| 6 | Dashboard 4-in-1 | Bar chart, bar horizontal, box plot umur, stacked bar pekerjaan | <img width="869" height="666" alt="Image" src="https://github.com/user-attachments/assets/41e5ed84-cd9d-48da-9a84-fe6c6260aec7" />
-| 7 | Box Plot Pendapatan | Distribusi pendapatan detail per segmen | <img width="800" height="487" alt="Image" src="https://github.com/user-attachments/assets/3b011759-bcbf-4da4-89a3-2665f73f8bb3" />
+---
+
+### 1. Dendrogram
+Melihat struktur hierarki pengelompokkan
+
+![Dendrogram](https://github.com/user-attachments/assets/4b787fec-285d-4c4f-bf4f-3d742eb5014e)
+
+---
+
+### 2. Elbow Method
+Menentukan jumlah cluster optimal
+
+![Elbow Method](https://github.com/user-attachments/assets/16ed541a-46f0-4f9b-89e3-77572bbe9d56)
+
+---
+
+### 3. Heatmap Korelasi
+Melihat hubungan antar fitur
+
+![Heatmap](https://github.com/user-attachments/assets/9c9489f5-0fce-4d4d-ac18-71b55bb5bd78)
+
+---
+
+### 4. Scatter Plot
+Distribusi segmen berdasarkan Umur vs Pendapatan
+
+![Scatter Plot](https://github.com/user-attachments/assets/5b72cefc-9d66-41b6-a8b0-4a7f62ef0a88)
+
+---
+
+### 5. Radar Chart
+Profil karakteristik tiap segmen secara holistik
+
+![Radar Chart](https://github.com/user-attachments/assets/3e69a3d4-a6c8-4410-8f0c-7807a8fe232f)
+
+---
+
+### 6. Dashboard 4-in-1
+Bar chart, bar horizontal, box plot umur, dan stacked bar pekerjaan
+
+![Dashboard](https://github.com/user-attachments/assets/41e5ed84-cd9d-48da-9a84-fe6c6260aec7)
+
+---
+
+### 7. Box Plot Pendapatan
+Distribusi pendapatan detail per segmen
+
+![Box Plot](https://github.com/user-attachments/assets/3b011759-bcbf-4da4-89a3-2665f73f8bb3)
 
 ---
 
